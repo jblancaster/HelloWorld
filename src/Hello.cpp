@@ -3,7 +3,7 @@
 
 Hello::Hello()
 {
-    std::cout << "Contruct" << std::endl;
+    std::cout << "Construct" << std::endl;
     greeting_str = "Hello, World!";
 }
 
